@@ -1,0 +1,28 @@
+.nav_section{
+    width: 90%;
+    height: 120px;
+    margin: 0 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+}
+
+.nav_logo{
+    width: 250px;
+    height: 45px;
+}
+.nav_menu ul li{
+    height: 30px;
+    float: left;
+    margin-left: 5vw;
+    font-size: 1.4rem;
+    text-align: center;
+    cursor: pointer;
+}
+.nav_link:hover{
+    color: gray;
+}
+.nav_link_activated{
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
