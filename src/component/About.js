@@ -2,13 +2,10 @@ import React from 'react';
 import Nav from './Nav';
 import '../css/About.css';
 import profile from "../images/profile.png";
-import { FullPage, Slide } from 'react-full-page';
 function About(props) {
     return (
         <div className="about_section">
             <Nav />
-            <FullPage controls controlsProps={{ className: 'about_slide' }}>
-                <Slide>
                     <div className='about_screen about_screen_one'>
                         {/* <p className='about_profile_text'>Artistic Developer</p> */}
                         <p className='about_profile_text'>
@@ -24,11 +21,7 @@ function About(props) {
                         </p>
                         <img src={profile} alt='profile' className='about_profile_img' />
                     </div>
-                </Slide>
-                <Slide>
                     <div className='about_screen about_screen_two'>2</div>
-                </Slide>
-            </FullPage>
         </div>
     );
 }
