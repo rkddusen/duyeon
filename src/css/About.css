@@ -1,0 +1,26 @@
+.about_section {
+    width: 100%;
+    height: 100%;
+
+}
+
+.about_slide button {
+    display: none;
+}
+
+.about_screen {
+    width: 100%;
+    height: 100%;
+    font-size: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.about_profile_text{
+    margin: 20px;
+}
+.about_profile_img{
+    width: 30%;
+}
