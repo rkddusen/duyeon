@@ -19,18 +19,43 @@
     align-items: center;
 }
 
-.screen_one {
+.main_screen_one {
     background: linear-gradient(#efffef, #D4FFD3);
 }
 
-.screen_two {
+.main_screen_two {
     background: linear-gradient(#D4FFD3, #A1FF9F);
 }
 
-.screen_three {
+.main_screen_three {
     background: linear-gradient(#A1FF9F, #4EFF4A);
 }
 
-.screen_four {
+.main_screen_four {
     background: linear-gradient(#4EFF4A, #38B636);
+}
+
+.text1:hover{
+    color: #ffafaf;
+}
+.text2:hover{
+    color: #ffe0af;
+}
+.text3:hover{
+    color: #f7ffaf;
+}
+.text4:hover{
+    color: #b8ffaf;
+}
+.text5:hover{
+    color: #aff2ff;
+}
+.text6:hover{
+    color: #afc6ff;
+}
+.text7:hover{
+    color: #d7afff;
+}
+.text8:hover{
+    color: #ffaffb;
 }

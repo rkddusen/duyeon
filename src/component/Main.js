@@ -9,16 +9,16 @@ function Main(props) {
             <Nav />
             <FullPage controls controlsProps={{ className: 'main_slide' }}>
                 <Slide>
-                    <div className='main_screen screen_one'>1</div>
+                    <div className='main_screen main_screen_one'>1</div>
                 </Slide>
                 <Slide>
-                    <div className='main_screen screen_two'>2</div>
+                    <div className='main_screen main_screen_two'>2</div>
                 </Slide>
                 <Slide>
-                    <div className='main_screen screen_three'>3</div>
+                    <div className='main_screen main_screen_three'>3</div>
                 </Slide>
                 <Slide>
-                    <div className='main_screen screen_four'>4</div>
+                    <div className='main_screen main_screen_four'>4</div>
                 </Slide>
             </FullPage>
 
