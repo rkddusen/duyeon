@@ -6,10 +6,11 @@ function Main(props) {
     return (
         <div className="main_section">
             <Nav />
-                    <div className='main_screen main_screen_one'>1</div>
-                    <div className='main_screen main_screen_two'>2</div>
-                    <div className='main_screen main_screen_three'>3</div>
-                    <div className='main_screen main_screen_four'>4</div>
+            <div className='main_screen main_screen_one'>1</div>
+            <div className='main_screen main_screen_two'>2</div>
+            <div className='main_screen main_screen_three'>3</div>
+            <div className='main_screen main_screen_four'>4</div>
+            <Footer />
         </div>
     );
 }
