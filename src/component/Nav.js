@@ -4,8 +4,8 @@ import '../css/Nav.css';
 import { Link, NavLink } from 'react-router-dom';
 function Nav(props) {
     return (
-        <>
-            <div className='nav_section'>
+        <div className='nav_section'>
+            <div className='nav_bar'>
                 <Link to="/"><img src={logo} alt='logo' className='nav_logo' /></Link>
                 <div className="nav_menu">
                     <ul>
@@ -25,7 +25,7 @@ function Nav(props) {
                 </div>
             </div>
 
-        </>
+        </div>
     );
 }
 
