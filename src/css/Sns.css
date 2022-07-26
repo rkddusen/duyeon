@@ -1,0 +1,18 @@
+.sns_image{
+    width: 100px;
+    height: 100px;
+}
+.sns_text{
+    width: 90%;
+    text-align: center;
+}
+.sns_text a{
+    word-wrap: break-word;
+}
+.naver:link{
+    pointer-events: none;
+}
+
+.sns_text a:hover{
+    text-decoration: underline;
+}

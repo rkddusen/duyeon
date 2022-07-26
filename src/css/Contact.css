@@ -1,0 +1,32 @@
+.contact_section {
+    min-height: 1024px;
+    overflow: auto;
+}
+.contact_area{
+    margin-top: 150px;
+    height: 100%;
+    text-align: center;
+}
+.contact_area > p{
+    font-size: 2.5rem;
+    margin-bottom: 50px;
+}
+.contact_sns{
+    display: flex;
+    justify-content: center;
+    height: 350px;
+}
+.contact_sns:last-child{
+    margin-bottom: 50px;
+}
+
+.sns_left, .sns_right{
+    width: 400px;
+    height: 250px;
+    box-shadow: 2px 2px 5px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 30px;
+}
