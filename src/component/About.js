@@ -3,6 +3,9 @@ import Nav from './Nav';
 import Footer from './Footer';
 import '../css/About.css';
 import profile from "../images/profile.png";
+import aboutme from "../images/aboutme.png";
+import career from "../images/career.jpg";
+import skills from "../images/skills.png";
 function About(props) {
     return (
         <div className="about_section">
@@ -24,21 +27,21 @@ function About(props) {
             </div>
             <div className='about_screen about_screen_two'>
                 <div className='about_profile_explain about_aboutme'>
-                    <div className='about_explain_img'><img src='' alt='img' /></div>
+                    <div className='about_explain_img'><img src={aboutme} alt='img' /></div>
                     <div className='about_explain_detail'>
                         <strong>about me</strong>
                         <p>detail</p>
                     </div>
                 </div>
                 <div className='about_profile_explain about_career'>
-                    <div className='about_explain_img'><img src='' alt='img' /></div>
+                    <div className='about_explain_img'><img src={career} alt='img' /></div>
                     <div className='about_explain_detail'>
                         <strong>career</strong>
                         <p>detail</p>
                     </div>
                 </div>
                 <div className='about_profile_explain about_skills'>
-                    <div className='about_explain_img'><img src='' alt='img' /></div>
+                    <div className='about_explain_img'><img src={skills} alt='img' /></div>
                     <div className='about_explain_detail'>
                         <strong>skills</strong>
                         <p>detail</p>
