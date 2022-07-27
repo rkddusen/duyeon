@@ -34,28 +34,3 @@
 .main_screen_four {
     background: linear-gradient(#4EFF4A, #38B636);
 }
-
-.text1:hover{
-    color: #ffafaf;
-}
-.text2:hover{
-    color: #ffe0af;
-}
-.text3:hover{
-    color: #f7ffaf;
-}
-.text4:hover{
-    color: #b8ffaf;
-}
-.text5:hover{
-    color: #aff2ff;
-}
-.text6:hover{
-    color: #afc6ff;
-}
-.text7:hover{
-    color: #d7afff;
-}
-.text8:hover{
-    color: #ffaffb;
-}
