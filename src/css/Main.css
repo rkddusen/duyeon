@@ -1,36 +1,9 @@
 .main_section {
-    width: 100%;
-    height: 100%;
-
+    min-height: 1024px;
+    overflow: auto;
 }
-
-.main_slide button {
-    display: none;
-}
-
-.main_screen {
-    width: 100%;
+.main_area{
+    margin-top: 150px;
     height: 100%;
     text-align: center;
-    font-size: 5rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.main_screen_one {
-    background: linear-gradient(#efffef, #D4FFD3);
-}
-
-.main_screen_two {
-    background: linear-gradient(#D4FFD3, #A1FF9F);
-}
-
-.main_screen_three {
-    background: linear-gradient(#A1FF9F, #4EFF4A);
-}
-
-.main_screen_four {
-    background: linear-gradient(#4EFF4A, #38B636);
 }
