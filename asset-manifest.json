@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/duyeon/static/css/main.e6c13ad2.css",
+    "main.js": "/duyeon/static/js/main.b3679689.js",
+    "static/media/yorizori.png": "/duyeon/static/media/yorizori.8fac18c7aa73095a2780.png",
+    "static/media/duyeons_portfolio.png": "/duyeon/static/media/duyeons_portfolio.6b52cbc9ea05f4650583.png",
+    "static/media/soool_with_wine.png": "/duyeon/static/media/soool_with_wine.1f91dedfcdf1e914f890.png",
+    "static/media/kuphil_web.png": "/duyeon/static/media/kuphil_web.e9d6c4b0430446f8a1ae.png",
+    "static/media/color_me.png": "/duyeon/static/media/color_me.a29a5a9c4de9596173d8.png",
+    "static/media/main.jpg": "/duyeon/static/media/main.59980f22e93ec36b567a.jpg",
+    "static/media/level4.png": "/duyeon/static/media/level4.2f11485fa7f76e1b4ad4.png",
+    "static/media/level2.png": "/duyeon/static/media/level2.adfea3706fee369da8c8.png",
+    "static/media/level1.png": "/duyeon/static/media/level1.dfbc9286b1f595c74ff6.png",
+    "static/media/level3.png": "/duyeon/static/media/level3.eeb511641b35ba4cd148.png",
+    "static/media/solution1.png": "/duyeon/static/media/solution1.a313579e092917d1c58d.png",
+    "static/media/solution2.png": "/duyeon/static/media/solution2.0c2cdf133f529e64cdc6.png",
+    "static/media/naver_logo.png": "/duyeon/static/media/naver_logo.c0a9582d2f06166f7253.png",
+    "static/media/problem.png": "/duyeon/static/media/problem.93e06cdc609c86284edc.png",
+    "static/media/kakaotalk_logo.png": "/duyeon/static/media/kakaotalk_logo.e9f5b5552fe249adb129.png",
+    "static/media/tistory_logo.png": "/duyeon/static/media/tistory_logo.a0d145c13f8772743200.png",
+    "index.html": "/duyeon/index.html",
+    "main.e6c13ad2.css.map": "/duyeon/static/css/main.e6c13ad2.css.map",
+    "main.b3679689.js.map": "/duyeon/static/js/main.b3679689.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b3679689.js"
+  ]
+}
